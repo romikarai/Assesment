@@ -1,0 +1,109 @@
+{
+  "userDetails": [
+    {
+      "userName": "user1",
+      "email": "abc@email.com",
+      "phone": 1234567890,
+      "id": 1,
+      "creationDate": "2023-10-16"
+    },
+    {
+      "userName": "user2",
+      "email": "abcd@email.com",
+      "phone": 1234567891,
+      "id": 2,
+      "creationDate": "2023-10-17"
+    },
+    {
+      "userName": "user3",
+      "email": "abce@email.com",
+      "phone": 1234567880,
+      "id": 3,
+      "creationDate": "2023-10-18"
+    },
+    {
+      "userName": "user4",
+      "email": "abcf@email.com",
+      "phone": 1234567892,
+      "id": 4,
+      "creationDate": "2023-10-19"
+    },
+    {
+      "userName": "user5",
+      "email": "abcg@email.com",
+      "phone": 1234567893,
+      "id": 5,
+      "creationDate": "2023-11-20"
+    },
+    {
+      "userName": "user6",
+      "email": "abch@email.com",
+      "phone": 1234567870,
+      "id": 6,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user7",
+      "email": "abci@email.com",
+      "phone": 1234567881,
+      "id": 7,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user8",
+      "email": "abcj@email.com",
+      "phone": 1234567882,
+      "id": 8,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user9",
+      "email": "abck@email.com",
+      "phone": 1234567883,
+      "id": 9,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user10",
+      "email": "abcl@email.com",
+      "phone": 1234567884,
+      "id": 10,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user11",
+      "email": "abcm@email.com",
+      "phone": 1234567885,
+      "id": 11,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user12",
+      "email": "abcn@email.com",
+      "phone": 1234567886,
+      "id": 12,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user13",
+      "email": "abco@email.com",
+      "phone": 1234567887,
+      "id": 13,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user14",
+      "email": "abcp@email.com",
+      "phone": 1234567888,
+      "id": 14,
+      "creationDate": "2023-11-16"
+    },
+    {
+      "userName": "user15",
+      "email": "abcq@email.com",
+      "phone": 1234567889,
+      "id": 15,
+      "creationDate": "2023-11-16"
+    }
+  ]
+}
